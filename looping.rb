@@ -1,6 +1,18 @@
 def happy_new_year
   # your code here
+  i = 10
+  while i < 10
+    n -= 1
+  end
+  if i = 0
+    puts "Happy New Year!"
+
+  else
+    puts i
+  end
 end
+
+
 
 # No need to modify this code! Use this to implement the fizzbuzz_printer method.
 def fizzbuzz(num)
